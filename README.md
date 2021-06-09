@@ -1,2 +1,3 @@
 # Informe2
-![](LOGO.png)
+
+![](Carpeta de imagenes/LOGO.png)
