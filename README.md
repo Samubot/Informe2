@@ -27,12 +27,19 @@ Este analisis consiste en asginar a cada "ventana" del circuito una corriente to
 
 3. DIAGRAMAS
 <img src="Carpeta de imagenes/diagramacircuito.jpg">
+<img src="Carpeta de imagenes/diagrama1.jpg">
+<img src="Carpeta de imagenes/diagramaI.jpg">
+
 
 4. LISTA DE COMPONENTES
 
 <img src="Carpeta de imagenes/materiales.jpg">
 
 5. EXPLICACIÓN
+
+<img src="Carpeta de imagenes/sentido.jpg">
+
+Analizando el circuito nos damos cuenta de que tenemos 3 mallas, por lo tanto, vamos a obtener 3 valores de intensidad.
 
 6.CONCLUSIONES
 
@@ -42,7 +49,7 @@ Este analisis consiste en asginar a cada "ventana" del circuito una corriente to
 
 * No es necesario medir la intensidad de cada resistencia, sino de cada malla, en este caso son tres.
 
-* Por cada malla obtenemos una ecuación que relaciones las intensidades.
+* Por cada malla obtenemos una ecuación que relacione las intensidades.
 
 * Existen varios factores que afectan los resultados como un mal ensamblaje del circuito, o el mal funcionamiento de algún elemento del circuito.
 
