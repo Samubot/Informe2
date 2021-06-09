@@ -30,14 +30,22 @@ Este analisis consiste en asginar a cada "ventana" del circuito una corriente to
 
 4. LISTA DE COMPONENTES
 
+<img src="Carpeta de imagenes/materiales.jpg">
+
 5. EXPLICACIÓN
 
 6.CONCLUSIONES
-• No en todos los casos los valores teóricos serán igual a los medidos pero sí se asemejarán.
 
-• El margen de error tiene una relación directa con los dispositivos de medición y elementos del circuito. Queda clara la efectividad del análisis por mallas en conjunto con la ley de ohm ya que existe una mínima desviación entre los resultados teóricos y experimentales, casi inexistente.
+* En la mayoria de casos los valores medidos y los teóricos son iguales, cuando no lo son, estos se asemejan.
 
-• .Hay que tener en cuenta que existen varios factores que afectan los resultados, algunos de estos son: un mal ensamblaje del circuito, o el mal funcionamiento de algún elemento del circuito.
+*  El margen de error tiene una relación directa con los dispositivos de medición y elementos del circuito. Queda clara la efectividad del análisis por mallas en conjunto con la ley de ohm ya que existe una mínima desviación entre los resultados teóricos y experimentales, casi inexistente.
+
+* No es necesario medir la intensidad de cada resistencia, sino de cada malla, en este caso son tres.
+
+* Por cada malla obtenemos una ecuación que relaciones las intensidades.
+
+* Existen varios factores que afectan los resultados como un mal ensamblaje del circuito, o el mal funcionamiento de algún elemento del circuito.
+
 7. BIBLIOGRAFÍA
 
 •Johnson, D. E., Hilburn, J. L., Johnson, J. R., & Pozo, V. G. (1987). Análisis básico de circuitos eléctricos. Prentice-Hall Hispanoamericana.
