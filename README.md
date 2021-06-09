@@ -2,5 +2,6 @@
 
 <img src="Carpeta de imagenes/LOGO.png">
 
-![](Carpeta de imagenes/diagramacircuito.jpg)
+
+<img src="Carpeta de imagenes/diagramacircuito.jpg">
 
