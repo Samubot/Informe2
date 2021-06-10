@@ -87,6 +87,6 @@ Tabla 1.1
 <img src="Carpeta de imagenes/ecuacion3.jpg">
 
 
-
-
+VDEO:
+https://www.youtube.com/watch?v=MQoDBEvDbMI
 
