@@ -41,6 +41,10 @@ Este analisis consiste en asginar a cada "ventana" del circuito una corriente to
 
 Analizando el circuito nos damos cuenta de que tenemos 3 mallas, por lo tanto, vamos a obtener 3 valores de intensidad.
 
+<img src="Carpeta de imagenes/ecuacion1.jpg">
+<img src="Carpeta de imagenes/ecuacion2.jpg">
+
+
 6.CONCLUSIONES
 
 * En la mayoria de casos los valores medidos y los teóricos son iguales, cuando no lo son, estos se asemejan.
@@ -63,6 +67,9 @@ Analizando el circuito nos damos cuenta de que tenemos 3 mallas, por lo tanto, v
 
 
 8. ANEXOS
+
+<img src="Carpeta de imagenes/ecuacion3.jpg">
+
 
 
 
