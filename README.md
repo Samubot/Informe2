@@ -48,6 +48,10 @@ Analizando el circuito nos damos cuenta de que tenemos 3 mallas, por lo tanto, v
 
 Tabla 1.1
 
+<img src="Carpeta de imagenes/9e8a3a55-b591-4bb7-b71b-f46776fa5a6d.jpg">
+
+•Calculo del error porcentual
+
 
 6.CONCLUSIONES
 
