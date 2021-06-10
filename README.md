@@ -84,9 +84,12 @@ Tabla 1.1
 
 8. ANEXOS
 
+
+
+VIDEO YOUTUBE:
+https://www.youtube.com/watch?v=MQoDBEvDbMI
+
+
 <img src="Carpeta de imagenes/ecuacion3.jpg">
 
-
-VDEO:
-https://www.youtube.com/watch?v=MQoDBEvDbMI
 
