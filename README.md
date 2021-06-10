@@ -44,6 +44,10 @@ Analizando el circuito nos damos cuenta de que tenemos 3 mallas, por lo tanto, v
 <img src="Carpeta de imagenes/ecuacion1.jpg">
 <img src="Carpeta de imagenes/ecuacion2.jpg">
 
+-Resultados obtenidos de la corriente de cada malla
+
+Tabla 1.1
+
 
 6.CONCLUSIONES
 
