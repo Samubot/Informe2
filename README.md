@@ -14,14 +14,14 @@
 
 El "método de análisis en mallas" o conocido también como "método de corrientes de malla" es una técnica basada principalmente en la aplicación de la ley de Kirchhoff para voltajes alrededor de una trayectoria cerrada. Una trayectoria cerrada se obtiene empezando en un nodo y regresando al mismo sin pasar por un nodo intermedio más de una vez.
 
+
 La corriente de malla se define como la corriente que fluye a través de los elementos que constituyen la malla. Nótese que la corriente en un elemento común a dos mallas es la suma algebraica de las corrientes de malla. La corriente de malla se indica por una flecha curva, aunque su dirección es arbitraria
 
-1 grafico
-
+![Analisisdemallas](https://user-images.githubusercontent.com/84453557/121457701-b463f500-c96d-11eb-9b24-1fe3bafa8b35.png)
 
 Este analisis consiste en asginar a cada "ventana" del circuito una corriente total cerrada en bucle. Cada corriente sera represntada como I*R y se sumara o restara cada intensidad por sus resistencias de acuerdo a sus mallas adyacentes. Para esto:
 
-2grafico
+![Proceso](https://user-images.githubusercontent.com/84453557/121457712-b8901280-c96d-11eb-8fe3-9ad804c4b865.png)
 
 
 
