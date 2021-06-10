@@ -52,6 +52,7 @@ Tabla 1.1
 
 •Calculo del error porcentual
 
+<img src="Carpeta de imagenes/error.jpg">
 
 6.CONCLUSIONES
 
